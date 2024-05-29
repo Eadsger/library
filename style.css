@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#bookForm {
+    margin: 20px 0;
+}
+
+.book-card {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    margin: 5px;
+}
