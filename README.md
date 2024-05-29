@@ -12,11 +12,11 @@ A simple Library application built with HTML, CSS, and JavaScript to manage a co
 ## Project Structure
 
 library/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+ │
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── README.md
 
 ## Acknowledgements
 
